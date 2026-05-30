@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsender",
+        "uuid": 3364720,
+        "checksum": "lf9mbc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
